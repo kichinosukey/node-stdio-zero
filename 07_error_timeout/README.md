@@ -4,7 +4,7 @@
 
 ## 実行
 ```bash
-node learning/node-stdio-zero/07_error_timeout/client.js
+node 07_error_timeout/client.js
 ```
 
 ## 何を確認するか

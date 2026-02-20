@@ -4,11 +4,11 @@
 
 ## 実行例
 ```bash
-echo '{"id":1,"method":"ping"}' | node learning/node-stdio-zero/02_one_shot_server/server.js
+echo '{"id":1,"method":"ping"}' | node 02_one_shot_server/server.js
 ```
 
 ```bash
-echo '{"id":2,"method":"add","params":{"a":3,"b":5}}' | node learning/node-stdio-zero/02_one_shot_server/server.js
+echo '{"id":2,"method":"add","params":{"a":3,"b":5}}' | node 02_one_shot_server/server.js
 ```
 
 ## 何を確認するか

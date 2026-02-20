@@ -4,7 +4,7 @@
 
 ## 実行
 ```bash
-node learning/node-stdio-zero/08_transport_swap_http/compare_client.js
+node 08_transport_swap_http/compare_client.js
 ```
 
 HTTPの`listen`が禁止された環境では、`note` に理由を出して `stdio` 側だけ確認します。

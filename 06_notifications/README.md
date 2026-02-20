@@ -4,7 +4,7 @@
 
 ## 実行
 ```bash
-node learning/node-stdio-zero/06_notifications/client.js
+node 06_notifications/client.js
 ```
 
 ## 何を確認するか

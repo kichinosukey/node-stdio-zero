@@ -8,7 +8,7 @@ printf '%s\n' \
 '{"id":1,"method":"ping"}' \
 '{"id":2,"method":"add","params":{"a":2,"b":5}}' \
 '{"id":3,"method":"shutdown"}' \
-| node learning/node-stdio-zero/03_line_protocol_server/server.js
+| node 03_line_protocol_server/server.js
 ```
 
 ## 何を確認するか

@@ -4,7 +4,7 @@
 
 ## 前提
 - Node.js 20+
-- 実行場所: `/Users/kichinosukey-mba/財務会計`
+- 実行場所: `/Users/kichinosukey-mba/node-stdio-zero`
 
 ## 進め方
 1. `01_pipe_basics`: まずはパイプで値を受けて返す。
@@ -18,7 +18,7 @@
 
 ## 実行例
 ```bash
-node learning/node-stdio-zero/01_pipe_basics/main.js
+node 01_pipe_basics/main.js
 ```
 
 各ステップの詳細はそれぞれの `README.md` を参照してください。

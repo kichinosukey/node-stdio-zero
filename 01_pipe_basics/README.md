@@ -4,7 +4,7 @@
 
 ## 実行
 ```bash
-echo 'hello stdio' | node learning/node-stdio-zero/01_pipe_basics/main.js
+echo 'hello stdio' | node 01_pipe_basics/main.js
 ```
 
 ## 何を確認するか

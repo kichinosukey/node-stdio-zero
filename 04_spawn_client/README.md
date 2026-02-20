@@ -4,7 +4,7 @@
 
 ## 実行
 ```bash
-node learning/node-stdio-zero/04_spawn_client/client.js
+node 04_spawn_client/client.js
 ```
 
 ## 何を確認するか

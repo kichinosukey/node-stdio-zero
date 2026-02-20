@@ -4,7 +4,7 @@
 
 ## 実行
 ```bash
-node learning/node-stdio-zero/05_request_id_and_promise/client.js
+node 05_request_id_and_promise/client.js
 ```
 
 ## 何を確認するか
